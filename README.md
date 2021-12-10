@@ -1,4 +1,4 @@
-# Python---211202---Customer-Segmentation
+# Python---211202---Customer-Segmentation-based-on-marketing-dataset
 
 - Customer segmentation by different factors, using pivot and K-means  
 - Dataset: Customer information about sales and previous accepted campaigns  
